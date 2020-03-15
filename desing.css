@@ -1,0 +1,27 @@
+.red {
+    background-color: red;
+}
+li {
+    background-color: rgb(168, 253, 225) ;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 4px;
+    border-radius: 20px;
+    padding: 5px;
+}
+body {
+    position: absolute;
+    margin: 2%;
+    background-color: rgb(124, 255, 2);
+
+}
+div {
+    background-color: rgb(255, 255, 136);
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.603);
+    border-radius: 20px;
+}
