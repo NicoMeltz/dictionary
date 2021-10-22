@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://NicoMeltz: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@github.com/NicoMeltz/dictionary.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
